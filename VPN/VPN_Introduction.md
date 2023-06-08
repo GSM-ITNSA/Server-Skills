@@ -12,7 +12,7 @@
 
 ## VPN의 기능
 
-- VPN을 사용하여 공중망(Public Network)을 사설망(Private Network)처럼 안전하게 사용하려면 다음과 같은 기능이 지원되어야 한다.
+- VPN을 사용하여 공중망(Public Network)을 사설망(Private Network)처럼 안전하게 사용하려면 다음과 같은 기능이 지원 되어야 한다.
 
 ### 1. 통신 상대방 확인
 
