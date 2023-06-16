@@ -26,7 +26,7 @@
 
 ## DNS의 동작방식 (Iterative 방식이다 !!!!)
 
-<img src="../Images/DNS%20Iterative%20Processing.png" alt="image12" width="600">
+<img src="../Images/DNSIterativeProcessing.png" alt="image12" width="600">
 
 
 ### 1. DNS Query (from Web Browser to Local DNS)
@@ -71,7 +71,7 @@
 2. Root 서버는 자신의 서버에 없다면 해당 TLD 서버에 직접 요청한다.
 3. 이렇게 재귀적으로 실제 도메인 정보를 가지고 있는 서버까지 Query가 이동하여 IP 주소를 얻음.
 
-<img src="../Images/DNS%20Recursive.png" alt="image12" width="600">
+<img src="../Images/DNSRecursive.png" alt="image12" width="600">
 
 
 ## Iterative (반복적 질의)란 무엇인가 ❓😁❓
