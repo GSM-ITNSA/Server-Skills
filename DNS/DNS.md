@@ -24,7 +24,7 @@
 
 ---
 
-## DNS의 동작방식 (Iterative 방식이다 !!!!)
+## DNS의 동작방식 
 
 <img src="./Image/DNSIterativeProcessing.png" alt="image12" width="600">
 
