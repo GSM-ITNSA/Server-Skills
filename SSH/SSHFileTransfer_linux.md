@@ -2,13 +2,13 @@
 
 - 아래는 기본적인 SSH로 File을 전송하는 SCP (Secure Copy)의 예시이다.
 
-<img src="../Images/image5.png" alt="image12" width="600">
+<img src="../images/image5.png" alt="image12" width="600">
 - 형식은 아래와 같다.
 - SCP [option] Source Destination
 
 ## 2. SFTP (SSH File Transfer Protocol)
 
-<img src="../Images/image6.png" alt="image12" width="600">
+<img src="../images/image6.png" alt="image12" width="600">
 
 - SFTP는 기본적으로 활성화가 되어있지는 않다.
 - 활성화를 하려면 /etc/ssh/sshd_config에 아래와 같이 설정해야한다.
