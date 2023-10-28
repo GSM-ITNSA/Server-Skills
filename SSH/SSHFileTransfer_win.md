@@ -13,6 +13,7 @@
 - 좌측 메뉴의 [Directory]에서 로그인 시 초기 위치로 [Remote Directory]와 [Local Directory] 항목을 입력하고 OK를 클릭하여 SSH로 접속한다.
 
 <img src="../images/WinSCP2.png" alt="image12" width="600">
+
 ### Step 3
 
 - 로그인이 정상적으로 될것이다.

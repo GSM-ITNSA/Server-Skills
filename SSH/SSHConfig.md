@@ -21,6 +21,7 @@
 - 아래 명령어의 debian@[dlp.srv.world](http://dlp.srv.world) 에서 debian = Username이고 dlp.srv.world가 접속할 SSH Server이다. 아마 SSH Server에서 vim /etc/hosts에 로컬 컴퓨터 주소가 dlp.srv.world로 설정되어있을 것이다.
 
 <img src="../images/image3.png" alt="image12" width="400">
+
 ### Step 4
 
 - 또한, SSH 명령어에 Command를 추가하여 원격 컴퓨터에 명령어를 실행 시킬 수 있다.
