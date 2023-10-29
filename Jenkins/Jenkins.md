@@ -1,4 +1,4 @@
-<img src="../image/Jenkins.png" alt="image12" width="600">
+<img src="../images/Jenkins.png" alt="image12" width="600">
 
 
 ## Jenkins가 무엇인가요??
